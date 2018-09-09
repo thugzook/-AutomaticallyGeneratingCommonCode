@@ -1,0 +1,10 @@
+D:\Programming\2018-1-9 Dean Form\2018-1-9 Dean Form\bin\Debug\2018-1-9 Dean Form.exe.config
+D:\Programming\2018-1-9 Dean Form\2018-1-9 Dean Form\bin\Debug\2018-1-9 Dean Form.exe
+D:\Programming\2018-1-9 Dean Form\2018-1-9 Dean Form\bin\Debug\2018-1-9 Dean Form.pdb
+D:\Programming\2018-1-9 Dean Form\2018-1-9 Dean Form\obj\Debug\2018-1-9 Dean Form.csprojResolveAssemblyReference.cache
+D:\Programming\2018-1-9 Dean Form\2018-1-9 Dean Form\obj\Debug\_2018_1_9_Dean_Form.Form1.resources
+D:\Programming\2018-1-9 Dean Form\2018-1-9 Dean Form\obj\Debug\_2018_1_9_Dean_Form.Properties.Resources.resources
+D:\Programming\2018-1-9 Dean Form\2018-1-9 Dean Form\obj\Debug\2018-1-9 Dean Form.csproj.GenerateResource.Cache
+D:\Programming\2018-1-9 Dean Form\2018-1-9 Dean Form\obj\Debug\2018-1-9 Dean Form.csproj.CoreCompileInputs.cache
+D:\Programming\2018-1-9 Dean Form\2018-1-9 Dean Form\obj\Debug\2018-1-9 Dean Form.exe
+D:\Programming\2018-1-9 Dean Form\2018-1-9 Dean Form\obj\Debug\2018-1-9 Dean Form.pdb
